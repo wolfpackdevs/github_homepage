@@ -50,6 +50,9 @@ html, body {
   
   nav {
     background-color: #292c2f !important;
+    /* position: fixed !important;
+    width: 100%;
+    top: 0px; */
   }
   
   a.nav-item.nav-link:hover {
